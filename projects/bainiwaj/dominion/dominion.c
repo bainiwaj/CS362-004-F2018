@@ -642,7 +642,7 @@ int getCost(int cardNumber)
 	
   return -1;
 }
-//refactor and bugs begin here
+//refactor and bugs begin here for assignment 2
 void adventurerFunction(int *drawntreasure, struct gameState *state, int currentPlayer, int *cardDrawn, int *temphand, int *z) {
 	while (*drawntreasure<2) {
 		if (state->deckCount[currentPlayer] <1) {//if the deck is empty we need to shuffle discard and add to deck
