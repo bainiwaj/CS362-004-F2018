@@ -675,7 +675,7 @@ void outpostFunction(int currentPlayer, int handPos, struct gameState *state) {
 	state->outpostPlayed++;
 
 	//discard card
-		discardCard(handPos, currentPlayer, state, 0);
+	discardCard(handPos, currentPlayer, state, 0);
 	}
 
 void greathallFunction(int currentPlayer, int handPos, struct gameState *state) {
@@ -727,12 +727,12 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   switch( card ) 
     {
     case adventurer:
-      adventurerFunction(&drawntreasure, state, currentPlayer, &cardDrawn, temphand, &z);
+     	 adventurerFunction(&drawntreasure, state, currentPlayer, &cardDrawn, temphand, &z);
 	return 0;
 			
     case council_room:
-			councilroomFunction(currentPlayer, handPos, state);		
-      return 0;
+	councilroomFunction(currentPlayer, handPos, state);		
+	return 0;
 			
     case feast:
       //gain card with cost up to 5
@@ -852,7 +852,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case smithy:
-      smithyFunction(currentPlayer, handPos, state);
+     	smithyFunction(currentPlayer, handPos, state);
 	return 0;
 		
     case village:
@@ -918,7 +918,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case great_hall:
-      		greathallFunction(currentPlayer, handPos, state);
+      	greathallFunction(currentPlayer, handPos, state);
 	return 0;
 		
     case minion:
@@ -1165,7 +1165,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case outpost:
-      		outpostFunction(currentPlayer, handPos, state);
+      	outpostFunction(currentPlayer, handPos, state);
 	return 0;
 		
     case salvager:
