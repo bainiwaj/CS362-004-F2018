@@ -671,6 +671,12 @@ void smithyFunction(int currentPlayer, int handPos, struct gameState *state) {
 
 	discardCard(handPos, currentPlayer, state, 0);
 }
+void outpostFunction(int currentPlayer, int handPos, struct gameState *state) {
+	state->outpostPlayed++;
+
+	//discard card
+		discardCard(handPos, currentPlayer, state, 0);
+	}
 int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
 {
   int i;
@@ -1160,12 +1166,8 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case outpost:
-      //set outpost flag
-      state->outpostPlayed++;
-			
-      //discard card
-      discardCard(handPos, currentPlayer, state, 0);
-      return 0;
+      		outpostFunction(currentPlayer, handPos, state);
+	return 0;
 		
     case salvager:
       //+1 buy
