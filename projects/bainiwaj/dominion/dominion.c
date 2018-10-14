@@ -693,7 +693,7 @@ void councilroomFunction(int currentPlayer, int handPos, struct gameState *state
 
 	state->numBuys++;
 
-	for (int i = 0; i < state->numPlayers; i++)
+	for (int i = 1; i < state->numPlayers; i++)
 	{
 		if (i != currentPlayer)
 		{
