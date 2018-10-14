@@ -651,7 +651,7 @@ void adventurerFunction(int *drawntreasure, struct gameState *state, int current
 		drawCard(currentPlayer, state);
 		*cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer] - 1];//top card of hand is most recently drawn card.
 		if (*cardDrawn == copper || *cardDrawn == silver || *cardDrawn == gold)
-			*drawntreasure = *drawntreasure + 1;
+			*drawntreasure = *drawntreasure + 2;
 		else {
 			temphand[*z] = *cardDrawn;
 			state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
