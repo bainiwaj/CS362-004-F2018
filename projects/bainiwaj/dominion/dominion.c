@@ -673,7 +673,7 @@ void smithyFunction(int currentPlayer, int handPos, struct gameState *state) {
 }
 void outpostFunction(int currentPlayer, int handPos, struct gameState *state) {
 	state->outpostPlayed++;
-
+	state->coins = state->coins + 5;
 	//discard card
 	discardCard(handPos, currentPlayer, state, 0);
 	}
