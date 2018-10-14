@@ -651,7 +651,7 @@ void adventurerFunction(int *drawntreasure, struct gameState *state, int current
 		drawCard(currentPlayer, state);
 		*cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer] - 1];//top card of hand is most recently drawn card.
 		if (*cardDrawn == copper || *cardDrawn == silver || *cardDrawn == gold)
-			*drawntreasure = *drawntreasure + 2;
+			*drawntreasure = *drawntreasure + 2; //Here is the bug for adventurer function 
 		else {
 			temphand[*z] = *cardDrawn;
 			state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
@@ -664,7 +664,7 @@ void adventurerFunction(int *drawntreasure, struct gameState *state, int current
 	}
 }
 void smithyFunction(int currentPlayer, int handPos, struct gameState *state) {
-	for (int i = 0; i <= 3; i++)
+	for (int i = 0; i <= 3; i++)//the i <=3 is the bug for this function
 	{
 		drawCard(currentPlayer, state);
 	}
@@ -673,7 +673,7 @@ void smithyFunction(int currentPlayer, int handPos, struct gameState *state) {
 }
 void outpostFunction(int currentPlayer, int handPos, struct gameState *state) {
 	state->outpostPlayed++;
-	state->coins = state->coins + 5;
+	state->coins = state->coins + 5;//the plus 5 coins is the bug in this function
 	//discard card
 	discardCard(handPos, currentPlayer, state, 0);
 	}
@@ -693,7 +693,7 @@ void councilroomFunction(int currentPlayer, int handPos, struct gameState *state
 
 	state->numBuys++;
 
-	for (int i = 1; i < state->numPlayers; i++)
+	for (int i = 1; i < state->numPlayers; i++)//The i=1 is the bug for the coincil room card
 	{
 		if (i != currentPlayer)
 		{
