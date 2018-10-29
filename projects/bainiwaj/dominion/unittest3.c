@@ -1,8 +1,8 @@
 /* 
- *  * * Jaspal Bainiwal
- *   * * I am using the testCoinsUpdate template from assignment 3 assistance(2).
- *    * *I am testing the supplyCount function in this test.
- *     * */
+ * * Jaspal Bainiwal
+ * * I am using the testCoinsUpdate template from assignment 3 assistance(2).
+ * *I am testing the supplyCount function in this test.
+ * */
 
 #include "dominion.h"
 #include "dominion_helpers.h"
@@ -10,22 +10,7 @@
 #include <stdio.h>
 #include <assert.h>
 #include "rngs.h"
-
-/*Wrote my own assert function because the helpful hint suggested that 
- *  * the built in assert might crash the program*/
-int myAssertFunction(int x, int y) 
-{
-	if (x != y)
-	{
-		printf("TEST FAILED\n");
-		return 0;
-	}
-	else
-	{
-		printf("TEST SUCCESSFULLY COMPLETED\n");
-		return 1;
-	}
-}
+int myAssertFunction(int x, int y);
 
 int main() {
 	int seed = 1000;
@@ -75,4 +60,19 @@ int main() {
 		printf("Not all tests passed!\n");
 	}
 	return 0;
+}
+/*Wrote my own assert function because the helpful hint suggested that
+ * the built in assert might crash the program*/
+int myAssertFunction(int x, int y)
+{
+	if (x != y)
+	{
+		printf("TEST FAILED\n");
+		return 0;
+	}
+	else
+	{
+		printf("TEST SUCCESSFULLY COMPLETED\n");
+		return 1;
+	}
 }	
