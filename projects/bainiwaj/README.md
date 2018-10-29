@@ -1,7 +1,4 @@
-This is my assignment 2 submission!
-
-
-Refactored adventurer, smithy, outpost, greathall, and councilroom cards into their own functions.
-
-
-Added four bugs to the adventurer, smithy, outpost, and councilroom cards. 
+This is my assignment 3 submission!
+For the unittests I tested scoreFor(), endTurn(), supplyCount() fullDeckCount() functions
+For the card tests I tested adventurer, smithy, outpost, and greathall cards.
+my Makefile was updated to make the unittestresults as well
