@@ -1,7 +1,5 @@
-This is my assignment 2 submission!
+This is my assignment 4 submission!
 
 
-Refactored adventurer, smithy, outpost, greathall, and councilroom cards into their own functions.
+This has code for  random testing techniques applied to adventurer, greathall, and outpost cards
 
-
-Added four bugs to the adventurer, smithy, outpost, and councilroom cards. 
