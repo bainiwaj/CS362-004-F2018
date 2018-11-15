@@ -42,13 +42,13 @@ all: playdom player
 
 randomtestresults: randomtestadventurer randomtestcard1 randomtestcard2
 	./randomtestadventurer >> randomtestadventurer.out
-	gcov randomtestadventurer.c >> randomtestadventurer.out
+	gcov -b -c randomtestadventurer.c >> randomtestadventurer.out
 	cat randomtestadventurer.c.gcov >> randomtestadventurer.out
 	./randomtestcard1 >> randomtestcard1.out
-	gcov randomtestcard1.c >> randomtestcard1.out
+	gcov -b -c randomtestcard1.c >> randomtestcard1.out
 	cat randomtestcard1.c.gcov >> randomtestcard1.out
 	./randomtestcard2 >> randomtestcard2.out
-	gcov randomtestcard2.c >> randomtestcard2.out
+	gcov -b -c randomtestcard2.c >> randomtestcard2.out
 	cat randomtestcard2.c.gcov >> randomtestcard2.out 
 clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe randomtestadventurer randomtestcard1 randomtestcard2 randomtestresults
