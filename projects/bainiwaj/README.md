@@ -1,5 +1,4 @@
-This is my assignment 4 submission!
+This is my assignment 5 submission!
 
-
-This has code for  random testing techniques applied to adventurer, greathall, and outpost cards
+I am testing teammates code 
 
