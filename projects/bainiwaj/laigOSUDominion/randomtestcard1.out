@@ -1,0 +1,1403 @@
+TESTING Outpost randomly: 1
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 2
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 3
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 4
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 5
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 6
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 7
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 8
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 9
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 10
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 11
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 12
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 13
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 14
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 15
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 16
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 17
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 18
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 19
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 20
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 21
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 22
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 23
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 24
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 25
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 26
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 27
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 28
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 29
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 30
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 31
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 32
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 33
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 34
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 35
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 36
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 37
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 38
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 39
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 40
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 41
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 42
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 43
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 44
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 45
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 46
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 47
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 48
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 49
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 50
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 51
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 52
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 53
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 54
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 55
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 56
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 57
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 58
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 59
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 60
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 61
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 62
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 63
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 64
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 65
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 66
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 67
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 68
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 69
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 70
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 71
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 72
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 73
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 74
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 75
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 76
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 77
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 78
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 79
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 80
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 81
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 82
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 83
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 84
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 85
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 86
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 87
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 88
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 89
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 90
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 91
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 92
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 93
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 94
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 95
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 96
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 97
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 98
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 99
+Testing card increases outpost played for player 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 1
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 1
+TEST SUCCESSFULLY COMPLETED
+TESTING Outpost randomly: 100
+Testing card increases outpost played for player 1
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing card increases outpost played for any other player: 2
+Expect a difference of 1 actual difference output 1
+TEST SUCCESSFULLY COMPLETED
+Testing the bug is still present, where coin amount is being changed 2
+Expect 5 difference in coins actual coin difference =  0
+TEST FAILED
+Checking card has been discard properly for player 2
+TEST SUCCESSFULLY COMPLETED
+Test that passed: 300
+Test that failed: 100
+File 'randomtestcard1.c'
+Lines executed:96.05% of 76
+Branches executed:100.00% of 16
+Taken at least once:68.75% of 16
+Calls executed:96.00% of 25
+Creating 'randomtestcard1.c.gcov'
+
+        -:    0:Source:randomtestcard1.c
+        -:    0:Graph:randomtestcard1.gcno
+        -:    0:Data:randomtestcard1.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/*
+        -:    2:* Jaspal Bainiwal
+        -:    3:* This is the random test for the outpost card.
+        -:    4:*/
+        -:    5:
+        -:    6:#include "dominion.h"
+        -:    7:#include "dominion_helpers.h"
+        -:    8:#include <string.h>
+        -:    9:#include <stdio.h>
+        -:   10:#include <assert.h>
+        -:   11:#include "rngs.h"
+        -:   12:#include<stdlib.h>
+        -:   13:#include<time.h>
+        -:   14:int myAssertFunction(int x, int y);
+        -:   15:int myGreaterAssert(int x, int y);
+        -:   16:int testRand(int x);
+        -:   17:
+function main called 1 returned 100% blocks executed 100%
+        1:   18:int main() {
+        1:   19:	srand(time(NULL));
+call    0 returned 1
+call    1 returned 1
+        1:   20:	int counter = 0;
+        1:   21:	int testGenerated = 100;
+        1:   22:	int totalTest = testGenerated * 4;
+        -:   23:	int testFailed;
+        -:   24:	int testPassed;
+        -:   25:	int i;
+      101:   26:	for (i = 0; i < testGenerated; i++)
+branch  0 taken 100
+branch  1 taken 1 (fallthrough)
+        -:   27:	{
+      100:   28:		counter = testRand(i + 1);
+call    0 returned 100
+      100:   29:		testPassed = testPassed + counter;
+        -:   30:	}
+        1:   31:	testFailed = totalTest - testPassed;
+        1:   32:	printf("Test that passed: %d\nTest that failed: %d\n", testPassed, testFailed);
+call    0 returned 1
+        1:   33:	return 0;
+        -:   34:}
+        -:   35:
+function testRand called 100 returned 100% blocks executed 97%
+      100:   36:int testRand(int x) {
+      100:   37:	int seed = 1000;
+      100:   38:	int numPlayer = 2;
+        -:   39:	int checker;
+      100:   40:	int counter = 0;
+      100:   41:	int max = 1;
+      100:   42:	int min = 0;
+        -:   43:	int handSize;
+        -:   44:	int handDiff;
+      100:   45:	int handpos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
+      100:   46:	int k[10] = { adventurer, council_room, feast, gardens, mine
+        -:   47:		, remodel, smithy, village, baron, great_hall };
+        -:   48:	struct gameState G, testG;
+        -:   49:	int difference;
+        -:   50:	int difference2;
+        -:   51:	int difference3;
+        -:   52:	int thisPlayer;
+      100:   53:	initializeGame(numPlayer, k, seed, &G); // initialize a new game
+call    0 returned 100
+      100:   54:	memcpy(&testG, &G, sizeof(struct gameState));
+      100:   55:	printf("TESTING Outpost randomly: %d\n", x);
+call    0 returned 100
+      100:   56:	testG.whoseTurn = rand() % (max + 1 - min) + min;
+call    0 returned 100
+      100:   57:	thisPlayer = testG.whoseTurn;
+      100:   58:	printf("Testing card increases outpost played for player %d\n", (thisPlayer + 1));
+call    0 returned 100
+      100:   59:	difference = testG.outpostPlayed;
+      100:   60:	cardEffect(outpost, choice1, choice2, choice3, &testG, handpos, &bonus);
+call    0 returned 100
+      100:   61:	difference2 = testG.outpostPlayed;
+      100:   62:	difference3 = difference2 - difference;
+      100:   63:	printf("Expect a difference of 1 actual difference output %d\n", difference3);
+call    0 returned 100
+      100:   64:	checker = myAssertFunction(difference3, 1);
+call    0 returned 100
+      100:   65:	if (checker == 1)
+branch  0 taken 100 (fallthrough)
+branch  1 taken 0
+        -:   66:	{
+      100:   67:		counter++;
+        -:   68:	}
+      100:   69:	if (testG.whoseTurn == 1)
+branch  0 taken 57 (fallthrough)
+branch  1 taken 43
+        -:   70:	{
+       57:   71:		thisPlayer = 0;
+        -:   72:	}
+        -:   73:	else
+        -:   74:	{
+       43:   75:		thisPlayer = 1;
+        -:   76:	}
+      100:   77:	printf("Testing card increases outpost played for any other player: %d\n", (thisPlayer + 1));
+call    0 returned 100
+      100:   78:	testG.whoseTurn = thisPlayer;
+      100:   79:	difference = testG.outpostPlayed;
+      100:   80:	cardEffect(outpost, choice1, choice2, choice3, &testG, handpos, &bonus);
+call    0 returned 100
+      100:   81:	difference2 = testG.outpostPlayed;
+      100:   82:	difference3 = difference2 - difference;
+      100:   83:	printf("Expect a difference of 1 actual difference output %d\n", difference3);
+call    0 returned 100
+      100:   84:	checker = myAssertFunction(difference3, 1);
+call    0 returned 100
+      100:   85:	if (checker == 1)
+branch  0 taken 100 (fallthrough)
+branch  1 taken 0
+        -:   86:	{
+      100:   87:		counter++;
+        -:   88:	}
+        -:   89:
+      100:   90:	memcpy(&testG, &G, sizeof(struct gameState));
+      100:   91:	printf("Testing the bug is still present, where coin amount is being changed %d\n", (thisPlayer + 1));
+call    0 returned 100
+      100:   92:	testG.whoseTurn = thisPlayer;
+      100:   93:	difference = testG.coins;
+      100:   94:	handSize = testG.playedCardCount;
+      100:   95:	cardEffect(outpost, choice1, choice2, choice3, &testG, handpos, &bonus);
+call    0 returned 100
+      100:   96:	handDiff = testG.playedCardCount;
+      100:   97:	difference2 = testG.coins;
+      100:   98:	difference3 = difference2 - difference;
+      100:   99:	printf("Expect 5 difference in coins actual coin difference =  %d\n", difference3);
+call    0 returned 100
+      100:  100:	checker = myAssertFunction(difference3, 5);
+call    0 returned 100
+      100:  101:	if (checker == 1)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 100
+        -:  102:	{
+    #####:  103:		counter++;
+        -:  104:	}
+      100:  105:	printf("Checking card has been discard properly for player %d\n", (thisPlayer + 1));
+call    0 returned 100
+      100:  106:	checker = myGreaterAssert(handDiff, handSize);
+call    0 returned 100
+      100:  107:	if (checker == 1)
+branch  0 taken 100 (fallthrough)
+branch  1 taken 0
+        -:  108:	{
+      100:  109:		counter++;
+        -:  110:	}
+      100:  111:	return counter;
+        -:  112:}
+        -:  113:
+        -:  114:/*Wrote my own assert function because the helpful hint suggested that
+        -:  115:* the built in assert might crash the program*/
+function myAssertFunction called 300 returned 100% blocks executed 100%
+      300:  116:int myAssertFunction(int x, int y)
+        -:  117:{
+      300:  118:	if (x != y)
+branch  0 taken 100 (fallthrough)
+branch  1 taken 200
+        -:  119:	{
+      100:  120:		printf("TEST FAILED\n");
+call    0 returned 100
+      100:  121:		return 0;
+        -:  122:	}
+        -:  123:
+        -:  124:	else
+        -:  125:	{
+      200:  126:		printf("TEST SUCCESSFULLY COMPLETED\n");
+call    0 returned 200
+      200:  127:		return 1;
+        -:  128:	}
+        -:  129:}
+        -:  130:
+function myGreaterAssert called 100 returned 100% blocks executed 67%
+      100:  131:int myGreaterAssert(int x, int y)
+        -:  132:{
+      100:  133:	if (x < y)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 100
+        -:  134:	{
+    #####:  135:		printf("TEST FAILED\n");
+call    0 never executed
+    #####:  136:		return 0;
+        -:  137:	}
+        -:  138:
+        -:  139:	else
+        -:  140:	{
+      100:  141:		printf("TEST SUCCESSFULLY COMPLETED\n");
+call    0 returned 100
+      100:  142:		return 1;
+        -:  143:	}
+        -:  144:}
